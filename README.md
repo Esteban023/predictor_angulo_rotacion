@@ -1,4 +1,4 @@
-<h1>🧠 MiniProyecto 3: Predicción de Ángulo de Rotación en MNIST</h1>
+<h1>🧠 Predicción de Ángulo de Rotación en MNIST</h1>
 
 <p>
     Este proyecto implementa un modelo de Machine Learning capaz de predecir el ángulo de rotación 
