@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>MiniProyecto 3: Predicción de Ángulo de Rotación en MNIST</title>
+</head>
+<body>
 
     <h1>🧠 MiniProyecto 3: Predicción de Ángulo de Rotación en MNIST</h1>
 
